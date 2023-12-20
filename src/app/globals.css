@@ -25,3 +25,16 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+input{
+  color:#000; 
+  text-align:center;
+  border-radius:4px;
+}
+
+.pokeViewer{
+  background:#333;
+  border-radius:8px;
+  padding:2rem 2rem 0;
+  text-align:center;
+}
